@@ -1,5 +1,5 @@
 {
   "users": [],
   "data": [],
-  "server-name":"recipe-mock-server"
+  "server-name":[{"name":"Mock-server"}]
 }
