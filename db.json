@@ -1,5 +1,6 @@
 {
   "users": [],
-  "data": [],
+  "cars": [],
+  "whishlisted_card":[],
   "server-name":[{"name":"Mock-server"}]
 }
